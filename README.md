@@ -18,6 +18,10 @@ This project involves building and evaluating models for fraud detection using v
 
 ## Getting Started
 
+Dataset can be found here
+
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
 ### Prerequisites
 - Python 3.x
 - Required Python packages (listed in `requirements.txt`)
